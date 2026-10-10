@@ -137,7 +137,7 @@ export function Hero({ openTerminal, openProfileModal }) {
             </a>
 
             <a
-              href="https://github.com/ankitkushwaha"
+              href="https://github.com/ankit563-ai"
               target="_blank"
               rel="noreferrer"
               onClick={() => soundFx.playClick()}
@@ -152,7 +152,7 @@ export function Hero({ openTerminal, openProfileModal }) {
                 textDecoration: 'none',
               }}
             >
-              <GithubIcon size={14} /> GitHub (@ankitkushwaha) <ExternalLink size={12} />
+              <GithubIcon size={14} /> GitHub (@ankit563-ai) <ExternalLink size={12} />
             </a>
 
             <a

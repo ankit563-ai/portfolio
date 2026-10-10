@@ -28,11 +28,11 @@ export function App() {
       } catch (e) {}
     }
     return {
-      leetcode: 'ankitkushwaha',
-      github: 'ankitkushwaha',
+      leetcode: 'ankit563-ai',
+      github: 'ankit563-ai',
       linkedin: 'https://linkedin.com/in/ankitkushwaha',
-      codechef: 'ankitkushwaha',
-      codeforces: 'ankitkushwaha',
+      codechef: 'ankit563_ai',
+      codeforces: 'ankit563_ai',
     };
   });
 
