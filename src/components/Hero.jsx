@@ -91,7 +91,7 @@ export function Hero({ openTerminal, openProfileModal }) {
             lineHeight: 1.1,
             letterSpacing: '-1px',
           }}>
-            Building High-Perf Systems & <span className="text-gradient">Algorithmic Mastery</span>
+            Hi, I'm <span className="text-gradient">Ankit Kushwaha</span>
           </h1>
 
           <div style={{
@@ -118,7 +118,7 @@ export function Hero({ openTerminal, openProfileModal }) {
           {/* Social Quick-Link Chips */}
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', marginTop: '8px' }}>
             <a
-              href="https://leetcode.com"
+              href="https://leetcode.com/u/ankitkushwaha"
               target="_blank"
               rel="noreferrer"
               onClick={() => soundFx.playClick()}
@@ -133,11 +133,11 @@ export function Hero({ openTerminal, openProfileModal }) {
                 textDecoration: 'none',
               }}
             >
-              <Zap size={14} /> LeetCode (2150+ Rating) <ExternalLink size={12} />
+              <Zap size={14} /> LeetCode (@ankitkushwaha) <ExternalLink size={12} />
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/ankitkushwaha"
               target="_blank"
               rel="noreferrer"
               onClick={() => soundFx.playClick()}
@@ -152,11 +152,11 @@ export function Hero({ openTerminal, openProfileModal }) {
                 textDecoration: 'none',
               }}
             >
-              <GithubIcon size={14} /> GitHub (450+ Contribs) <ExternalLink size={12} />
+              <GithubIcon size={14} /> GitHub (@ankitkushwaha) <ExternalLink size={12} />
             </a>
 
             <a
-              href="https://www.codechef.com"
+              href="https://www.codechef.com/users/ankitkushwaha"
               target="_blank"
               rel="noreferrer"
               onClick={() => soundFx.playClick()}
@@ -171,11 +171,11 @@ export function Hero({ openTerminal, openProfileModal }) {
                 textDecoration: 'none',
               }}
             >
-              <Code2 size={14} /> CodeChef 4-Star <ExternalLink size={12} />
+              <Code2 size={14} /> CodeChef (@ankitkushwaha) <ExternalLink size={12} />
             </a>
 
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/ankitkushwaha"
               target="_blank"
               rel="noreferrer"
               onClick={() => soundFx.playClick()}

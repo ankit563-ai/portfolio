@@ -28,11 +28,11 @@ export function App() {
       } catch (e) {}
     }
     return {
-      leetcode: 'algorithm_master',
-      github: 'dev-master-3d',
-      linkedin: 'https://linkedin.com',
-      codechef: 'code_wizard_99',
-      codeforces: 'grandmaster_x',
+      leetcode: 'ankitkushwaha',
+      github: 'ankitkushwaha',
+      linkedin: 'https://linkedin.com/in/ankitkushwaha',
+      codechef: 'ankitkushwaha',
+      codeforces: 'ankitkushwaha',
     };
   });
 
